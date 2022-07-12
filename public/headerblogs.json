@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9310/general/xps-13_black_open-up-left-v2.jpg?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=664&qlt=100,0&resMode=sharp2&size=664,402",
+        "category": "Laptop/Computer",
+        "date": "12 July , 2022",
+        "title": "XPS 13 Laptop. ",
+        "des": "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut, aliquam eveniet vitae quia veniam similique possimus numquam accusamus architecto provident blanditiis consequuntur inventore adipisci commodi qui cumque unde vel beatae! Lorem ipsum, dolor sit amet consectetur adipisicing elitLorem ipsum dolor sit, amet consectetur adipisicing elit. Aut, aliquam eveniet vitae quia veniam similique possimus numquam accusamus architecto provident blanditiis consequuntur inventore adipisci commodi qui cumque unde vel beatae! Lorem ipsum, dolor sit amet consectetur adipisicing elit" ,
+        "overview": {
+            "projectDone": 69,
+            "reviews": 36,
+            "developer": 6
+        },
+        "author": {
+            "name": "Kamruzzaman Mayed",
+            "position": "Web Developer",
+            "img": "https://i.stack.imgur.com/a65Mi.png?s=64&g=1"
+        }
+    },
+    {
+        "id": 2,
+        "img": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c07964708.png",
+        "category": "Laptop/Computer",
+        "date": "12 July , 2022",
+        "title": "HP Pavilion Aero Laptop 13-be1097nr, 13.3', Windows 11 Home, AMD Ryzen™ 5, 16GB RAM, 512GB SSD, WUXGA ",
+        "des": "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut, aliquam eveniet vitae quia veniam similique possimus numquam accusamus architecto provident blanditiis consequuntur inventore adipisci commodi qui cumque unde vel beatae! Lorem ipsum, dolor sit amet consectetur adipisicing elitLorem ipsum dolor sit, amet consectetur adipisicing elit. Aut, aliquam eveniet vitae quia veniam similique possimus numquam accusamus architecto provident blanditiis consequuntur inventore adipisci commodi qui cumque unde vel beatae! Lorem ipsum, dolor sit amet consectetur adipisicing elit" ,
+        "overview": {
+            "projectDone": 69,
+            "reviews": 36,
+            "developer": 6
+        },
+        "author": {
+            "name": "Kamruzzaman Mayed",
+            "position": "Web Developer",
+            "img": "https://i.stack.imgur.com/a65Mi.png?s=64&g=1"
+        }
+    },
+    {
+        "id": 3,
+        "img": "https://m.media-amazon.com/images/I/71+kGr+5LrL._SL1500_.jpg",
+        "category": "Laptop/Computer",
+        "date": "12 July , 2022",
+        "title": "Acer Swift 3 Thin & Light Laptop, 14' Full HD IPS, AMD Ryzen 7 4700U Octa-Core with Radeon Graphics ",
+        "des": "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut, aliquam eveniet vitae quia veniam similique possimus numquam accusamus architecto provident blanditiis consequuntur inventore adipisci commodi qui cumque unde vel beatae! Lorem ipsum, dolor sit amet consectetur adipisicing elitLorem ipsum dolor sit, amet consectetur adipisicing elit. Aut, aliquam eveniet vitae quia veniam similique possimus numquam accusamus architecto provident blanditiis consequuntur inventore adipisci commodi qui cumque unde vel beatae! Lorem ipsum, dolor sit amet consectetur adipisicing elit" ,
+        "overview": {
+            "projectDone": 69,
+            "reviews": 36,
+            "developer": 6
+        },
+        "author": {
+            "name": "Kamruzzaman Mayed",
+            "position": "Web Developer",
+            "img": "https://i.stack.imgur.com/a65Mi.png?s=64&g=1"
+        }
+    },
+    
+    {
+        "id": 4,
+        "img": "https://psref.lenovo.com/v2/images/classifications/c_laptops.png",
+        "category": "Laptop/Computer",
+        "date": "12 July , 2022",
+        "title": "Acer Swift 3 Thin & Light Laptop, 14' Full HD IPS, AMD Ryzen 7 4700U Octa-Core with Radeon Graphics ",
+        "des": "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut, aliquam eveniet vitae quia veniam similique possimus numquam accusamus architecto provident blanditiis consequuntur inventore adipisci commodi qui cumque unde vel beatae! Lorem ipsum, dolor sit amet consectetur adipisicing elitLorem ipsum dolor sit, amet consectetur adipisicing elit. Aut, aliquam eveniet vitae quia veniam similique possimus numquam accusamus architecto provident blanditiis consequuntur inventore adipisci commodi qui cumque unde vel beatae! Lorem ipsum, dolor sit amet consectetur adipisicing elit" ,
+        "overview": {
+            "projectDone": 69,
+            "reviews": 36,
+            "developer": 6
+        },
+        "author": {
+            "name": "Kamruzzaman Mayed",
+            "position": "Web Developer",
+            "img": "https://i.stack.imgur.com/a65Mi.png?s=64&g=1"
+        }
+    }
+    
+    
+]
